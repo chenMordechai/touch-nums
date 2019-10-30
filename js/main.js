@@ -9,6 +9,10 @@ var gTimer;
 
 var elNextNum = document.querySelector('.data.num')
 
+function stam(){
+    console.log('stam!!!!!!!')
+}
+
 function init() {
     gNums = createNums(gTotalNums)
     gplay = false;
