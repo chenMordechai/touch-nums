@@ -1,5 +1,5 @@
 'use strict'
-
+console.log("chen: hi yovel what's up?")
 
 var gTotalNums = 16
 var gNums = createNums(gTotalNums);
